@@ -1,0 +1,7 @@
+# NOEMVEX-DOMAIN Dependencies
+# ---------------------------------------------------------
+# Note: External system tools required (install via apt/pacman):
+# nmap, enum4linux, crackmapexec
+
+impacket
+git+https://github.com/dirkjanm/BloodHound.py.git
